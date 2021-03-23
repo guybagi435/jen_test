@@ -1,5 +1,5 @@
 pipeline{
-	agent none
+	agent{label "i-044d9ebe564a65ba4"}
 	options{
 		timestamps()
 		}
