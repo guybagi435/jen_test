@@ -1,5 +1,5 @@
 pipeline{
-	agent{label "i-044d9ebe564a65ba4"}
+	agent{label "ec2-fleet"}
 	options{
 		timestamps()
 		}
