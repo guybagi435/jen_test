@@ -1,5 +1,5 @@
 pipeline{
-	agent{label "ec2-fleet"}
+	agent{label "aws_slave"}
 	options{
 		timestamps()
 		}
